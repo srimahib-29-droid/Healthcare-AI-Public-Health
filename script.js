@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             try {
 
-                const response = await fetch("PASTE_YOUR_N8N_WEBHOOK_URL_HERE", {
+                const response = await fetch("https://prathyusha-250200038.app.n8n.cloud/webhook/book-appointment", {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
