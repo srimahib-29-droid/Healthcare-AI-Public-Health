@@ -652,6 +652,7 @@ Centralize healthcare-related services in one platform
 14. Repository
 
 GitHub Repository:
+https://github.com/srimahib-29-droid/Healthcare-AI-Public-Health
 
 
 
@@ -662,12 +663,10 @@ GitHub Repository:
 
 Frontend:
 
-YOUR_LIVE_WEBSITE_URL
-
+https://healthcare-ai-publichealth.netlify.app/
 Power BI Dashboard:
 
-YOUR_POWER_BI_REPORT_URL
-
+https://app.powerbi.com/links/xei5VISvwo?ctid=dd2561fb-5505-4dec-ab04-5fabba24a3df&pbi_source=linkShare
 n8n workflows:
 
 Configured and demonstrated through n8n
